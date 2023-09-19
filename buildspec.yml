@@ -5,7 +5,7 @@ env:
       BC_SOURCE: "codebuild"
       PRISMA_API_URL: "https://api2.prismacloud.io"
   parameter-store:
-      BC_API_KEY: "43b34a7e-bc8b-4581-9f8a-5f2697c4f6bb::YaOX4SYCXsGtmj+c3UKkHPfVH7M="
+      BC_API_KEY: "bc-api-key"
 phases:
   install:
     runtime-versions:
